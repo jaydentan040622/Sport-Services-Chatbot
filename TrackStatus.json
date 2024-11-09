@@ -1,0 +1,125 @@
+{
+    "trackorder": [
+      {
+        "orderID": "ORD001",
+        "customerName": "John Doe",
+        "orderStatus": "Processing",
+        "orderDate": "2024-09-10",
+        "expectedDelivery": "2024-09-17",
+        "shippingAddress": "123 Main Street, Kuala Lumpur, 50050",
+        "contactNumber": "03-2380-1234",
+        "storeLocation": "Adidas KLCC",
+        "email": "john.doe@example.com",
+        "totalAmount": "299.00"
+      },
+      {
+        "orderID": "ORD002",
+        "customerName": "Jane Smith",
+        "orderStatus": "Shipped",
+        "orderDate": "2024-09-09",
+        "expectedDelivery": "2024-09-16",
+        "shippingAddress": "456 Second Avenue, Petaling Jaya, 47800",
+        "contactNumber": "03-2290-5678",
+        "storeLocation": "Adidas Mid Valley",
+        "email": "jane.smith@example.com",
+        "totalAmount": "499.00"
+      },
+      {
+        "orderID": "ORD003",
+        "customerName": "Ahmad Zain",
+        "orderStatus": "Delivered",
+        "orderDate": "2024-09-08",
+        "expectedDelivery": "2024-09-15",
+        "shippingAddress": "789 Third Street, Shah Alam, 40000",
+        "contactNumber": "03-3200-4321",
+        "storeLocation": "Adidas Sunway Pyramid",
+        "email": "ahmad.zain@example.com",
+        "totalAmount": "349.00"
+      },
+      {
+        "orderID": "ORD004",
+        "customerName": "Emily Wong",
+        "orderStatus": "Cancelled",
+        "orderDate": "2024-09-05",
+        "expectedDelivery": "N/A",
+        "shippingAddress": "101 Fourth Lane, Ampang, 68000",
+        "contactNumber": "03-2100-9876",
+        "storeLocation": "Adidas The Gardens Mall",
+        "email": "emily.wong@example.com",
+        "totalAmount": "0.00"
+      },
+      {
+        "orderID": "ORD005",
+        "customerName": "Mohd Faiz",
+        "orderStatus": "Processing",
+        "orderDate": "2024-09-12",
+        "expectedDelivery": "2024-09-19",
+        "shippingAddress": "202 Fifth Avenue, Putrajaya, 62000",
+        "contactNumber": "03-8888-5678",
+        "storeLocation": "Adidas IOI City Mall",
+        "email": "mohd.faiz@example.com",
+        "totalAmount": "399.00"
+      },
+      {
+        "orderID": "ORD006",
+        "customerName": "Sophia Tan",
+        "orderStatus": "Shipped",
+        "orderDate": "2024-09-11",
+        "expectedDelivery": "2024-09-18",
+        "shippingAddress": "303 Sixth Street, Bangsar, 59100",
+        "contactNumber": "03-2390-7765",
+        "storeLocation": "Adidas Pavilion",
+        "email": "sophia.tan@example.com",
+        "totalAmount": "599.00"
+      },
+      {
+        "orderID": "ORD007",
+        "customerName": "Raj Kumar",
+        "orderStatus": "Delivered",
+        "orderDate": "2024-09-07",
+        "expectedDelivery": "2024-09-14",
+        "shippingAddress": "404 Seventh Avenue, Brickfields, 50470",
+        "contactNumber": "03-2699-8888",
+        "storeLocation": "Adidas Bukit Bintang",
+        "email": "raj.kumar@example.com",
+        "totalAmount": "459.00"
+      },
+      {
+        "orderID": "ORD008",
+        "customerName": "Nurul Aini",
+        "orderStatus": "Cancelled",
+        "orderDate": "2024-09-06",
+        "expectedDelivery": "N/A",
+        "shippingAddress": "505 Eighth Road, Seremban, 70200",
+        "contactNumber": "06-7632-1234",
+        "storeLocation": "Adidas Seremban Gateway",
+        "email": "nurul.aini@example.com",
+        "totalAmount": "0.00"
+      },
+      {
+        "orderID": "ORD009",
+        "customerName": "Lily Chan",
+        "orderStatus": "Processing",
+        "orderDate": "2024-09-13",
+        "expectedDelivery": "2024-09-20",
+        "shippingAddress": "606 Ninth Avenue, Cyberjaya, 63000",
+        "contactNumber": "03-8318-1111",
+        "storeLocation": "Adidas Cyberjaya Mall",
+        "email": "lily.chan@example.com",
+        "totalAmount": "249.00"
+      },
+      {
+        "orderID": "ORD010",
+        "customerName": "Aaron Lim",
+        "orderStatus": "Shipped",
+        "orderDate": "2024-09-12",
+        "expectedDelivery": "2024-09-19",
+        "shippingAddress": "707 Tenth Street, Subang Jaya, 47500",
+        "contactNumber": "03-5650-4444",
+        "storeLocation": "Adidas Sunway Pyramid",
+        "email": "aaron.lim@example.com",
+        "totalAmount": "529.00"
+      }
+    ]
+  }
+  

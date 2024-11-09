@@ -1,0 +1,235 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi 😊",
+        "Hello 👋",
+        "Hey there!",
+        "Good morning ☀️",
+        "Good afternoon 🌞",
+        "Good evening 🌆",
+        "Is anyone there? 👀",
+        "Hi there 😃",
+        "Hello, can you help me? 🤔",
+        "Hi, I need some assistance 🙋",
+        "Greetings 🌟",
+        "Hey, how's it going? 👍",
+        "Hello, Adidas! 🏃‍♂️",
+        "Hi, what's up? 👋",
+        "Can you assist me? 🛠️",
+        "I need help 🙏",
+        "halo"
+      ],
+      "responses": [
+        "Hi! Welcome to Adidas. How can I assist you with your shopping today? 🛍️",
+        "Hello there! I'm here to help you find the perfect Adidas gear. What can I do for you? 👟",
+        "Hey! Welcome to Adidas. Are you looking for something specific or need some recommendations? 🤗",
+        "Good day! What brings you to Adidas today? Shoes, apparel, or something else? 👕",
+        "Hello! Ready to find some amazing Adidas products? How can I assist you? 🏅",
+        "Hi! Whether it's sneakers, clothing, or accessories, I'm here to help. What can I assist you with? 👟👕",
+        "Hey there! What can I help you find in our Adidas collection today? 🛒",
+        "Hi, welcome! Let me know if you're searching for something specific, or if you'd like to hear about our latest releases. 📦",
+        "Hello! Looking for something special from Adidas today? I'm here to help you out! 🎯",
+        "Hey! How can I make your Adidas shopping experience easier today? 🛍️",
+        "Hi! Looking for the latest in Adidas gear? Let me know how I can assist you! 👟",
+        "Greetings! Need help finding something in our Adidas catalog? I'm here for you! 📖",
+        "Hello! How can I assist you today? Whether you're after running shoes or streetwear, I've got you covered. 👟👗",
+        "Hey! What are you looking for today? Running shoes, sportswear, or something new from Adidas? 🏃‍♀️",
+        "Hi there! What brings you to Adidas today? Feel free to ask me anything. 🤔",
+        "Hello! Welcome to Adidas. Need help picking out the perfect pair of sneakers or an outfit? 👟👗",
+        "Hey there! How can I help you get geared up with Adidas today? 🏅",
+        "Hi! It's great to have you here. What Adidas products can I assist you with? 👕",
+        "Hello! Ready to explore our latest Adidas collection? How can I help? 🌟",
+        "Hey! How can I assist you today? Looking for our new arrivals or something specific? 🛒",
+        "Hi! What can I help you with today? From performance gear to lifestyle apparel, Adidas has it all! 🏆"
+      ]
+
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Take care",
+        "Catch you later",
+        "See you soon",
+        "Have a great day",
+        "Until next time",
+        "I'm leaving",
+        "Thanks, bye",
+        "Talk to you later",
+        "I'm off for now",
+        "That's all, thanks!",
+        "thanks",
+        "thank",
+        "Goodbye for now",
+        "Bye for now",
+        "Catch you soon",
+        "See you around",
+        "Until we meet again",
+        "I'm heading out",
+        "It was nice talking to you",
+        "I'll talk to you later",
+        "Thanks for the chat",
+        "Have a nice day",
+        "Thanks for your help",
+        "Goodbye! Have a nice day",
+        "See you later, alligator",
+        "Take care! Until next time",
+        "It was great talking with you",
+        "Bye! Have a wonderful day",
+        "Catch you later, have a good one",
+        "See you soon! Don't be a stranger",
+        "Goodbye! Hope you enjoyed our chat",
+        "Farewell! Have a pleasant day ahead",
+        "Bye! It was a pleasure helping you",
+        "Until next time! Have a great day",
+        "Thanks for stopping by! Take care",
+        "See you soon! If you need anything, just ask",
+        "Goodbye! Have a fantastic day",
+        "Catch you later! Reach out if you need more help",
+        "Take care and see you again soon",
+        "Goodbye! Looking forward to our next chat",
+        "See you later! Feel free to come back anytime.",
+        "Bye for now! Let us know if you need anything else.",
+        "Goodbye! Wishing you a great rest of the day.",
+        "Catch you later! If you have more questions, just ask.",
+        "Farewell! I hope you have a wonderful time ahead.",
+        "Goodbye! I enjoyed our conversation. See you soon.",
+        "Until next time! Have a fantastic day!",
+        "Thanks for chatting with us! Take care.",
+        "Goodbye! We're here if you need more assistance.",
+        "Bye! It was lovely helping you today.",
+        "Take care! Reach out if you need further help.",
+        "See you later! Have a great day ahead.",
+        "Goodbye! Looking forward to our next interaction.",
+        "Good bye",
+        "good bye"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "Take care! Feel free to come back if you need anything else.",
+        "See you later! Have an amazing day!",
+        "Catch you later! Let us know if you need any more help.",
+        "Goodbye! Hope you found everything you were looking for.",
+        "Until next time! Enjoy your day and come back soon!",
+        "Bye! It was great assisting you today. Reach out anytime!",
+        "Have a wonderful day ahead! Don't hesitate to return if you need anything.",
+        "Farewell! We hope to see you again soon.",
+        "Take care! We'll be here if you need any more assistance.",
+        "Goodbye! It was a pleasure assisting you today.",
+        "See you later! Don't hesitate to get in touch if you need more help.",
+        "Bye for now! Have a fantastic day!",
+        "Until next time! We look forward to helping you again.",
+        "It was great chatting with you. Goodbye and take care!",
+        "Thanks for stopping by! Have a great rest of your day!",
+        "Goodbye! Feel free to reach out if you need more assistance.",
+        "Catch you later! If you need anything, just let us know.",
+        "See you soon! Have a wonderful day ahead!",
+        "Take care! We'll be here whenever you need assistance.",
+        "Goodbye! Looking forward to our next interaction.",
+        "It was nice talking to you! Have a great day ahead.",
+        "Farewell! Have a pleasant day and see you soon.",
+        "Goodbye! Hope you enjoyed our chat. Have a good one.",
+        "See you later! Feel free to return if you need more help.",
+        "Bye! Take care and have a fantastic day ahead."
+      ]
+    },
+    {
+      "tag": "shipping",
+      "patterns": [
+        "Tell me about the shipping options 🚚",
+        "What are the shipping methods available?",
+        "Can you explain shipping? 📦",
+        "What shipping options do you have? ✈️",
+        "How fast is the shipping? ⏱️",
+        "What's the cost of shipping? 💰",
+        "Is my order shipped yet? 📦🔍",
+        "How does Express Shipping work? 🚀",
+        "I need faster shipping! What can I choose? ⏩"
+      ],
+      "responses": [
+        "We offer two main shipping options: **Standard** and **Express**. 🚚 Standard shipping costs RM10 and takes 3-5 business days, while Express shipping 🚀 can get your items to you in just 1-2 days. How fast do you need your order to arrive?",
+        "For Standard shipping, it typically takes 3-5 business days, while Express shipping will get it to you within 1-2 business days! Need any help choosing? 📦✈️",
+        "Standard shipping costs RM10, and Express shipping varies depending on your location and items. Which one works best for you? 💸📦",
+        "We can check the status of your order! Just provide your Order ID or email address, and I'll help track it for you. 🔍📦"
+      ]
+    },
+    {
+      "tag": "returns",
+      "patterns": [
+        "What's your return policy? ♻️",
+        "How do I return a product? 🔄",
+        "Can I return my purchase? 📦↩️",
+        "Return policy details? 📝",
+        "How do I return an item? 🔁",
+        "What's the status of my return? 🔍",
+        "Is there a fee for returns? 💵",
+        "Is return shipping free? 📮",
+        "Can I return something I bought online? 🖥️📦"
+      ],
+      "responses": [
+        "We have a **30-day return policy** on unworn items. It's super easy to return something! ♻️ Just visit our Return Center online, provide your order number, and we'll guide you through the process. Need help getting started? 😊",
+        "No worries, you can return any unworn items within 30 days. Just use our prepaid return label and drop it off at your nearest post office. 📮 How can I assist with your return today?",
+        "Return shipping is completely free! 🎉 You'll receive a prepaid label with your order. Simply pack your items, stick on the label, and ship it back to us. 📦",
+        "You can check the status of your return anytime. Just provide me with your return tracking number or order ID, and I'll get the details for you. 🔍✉️"
+      ]
+    },
+    {
+      "tag": "warranty",
+      "patterns": [
+        "Do your products come with a warranty? 🛡️",
+        "What's your warranty policy? 📜",
+        "How do I claim the warranty? 📝",
+        "Can I claim a warranty on my product? 🔧",
+        "Is my product under warranty? 🛠️",
+        "How long is the warranty? ⏳",
+        "Do you offer extended warranties? 🕒"
+      ],
+      "responses": [
+        "Yes! All of our products come with a **1-year warranty** against manufacturing defects. 🛡️ Need to claim a warranty? Just let me know the product and issue, and I'll guide you through the process! 🛠️",
+        "We've got your back! 🛡️ Our products are covered for **1 year** from the purchase date. If anything's wrong, just contact us with your proof of purchase, and we'll take care of the rest.",
+        "To claim your warranty, just provide your receipt or proof of purchase along with details of the issue. I'll get everything set up for you! 📜",
+        "We offer extended warranties on select products. 🕒 Let me know which product you're looking at, and I can check if it qualifies for an extended warranty!"
+      ]
+    },
+    {
+      "tag": "gift_cards",
+      "patterns": [
+        "Do you offer gift cards? 🎁",
+        "Can I buy gift cards online? 💳",
+        "How do I check my gift card balance? 💸",
+        "What are the available amounts for gift cards? 🎟️",
+        "Can I use a gift card for my purchase? 🛍️",
+        "How do I use a gift card? 🏷️"
+      ],
+      "responses": [
+        "Yes! You can purchase Adidas gift cards 🎁 directly from our website. They're available in RM50, RM100, RM150, and RM200 amounts. Need help with anything else?",
+        "Our gift cards 🎁 come in different amounts: RM50, RM100, RM150, and RM200. You can buy them online and send them as a gift to someone special! 💝",
+        "You can check your gift card balance 💳 by entering the card number on our website's balance checker. Need help finding the page? 🤔",
+        "To use your gift card 🎁, just enter the code during checkout, and the amount will be applied to your order. Got more questions? I'm here to help!"
+      ]
+    },
+    {
+      "tag": "order_issues",
+      "patterns": [
+        "I want to cancel my order 🚫",
+        "Can I cancel my order? ⏹️",
+        "I received the wrong product! 😕",
+        "The product I received is wrong 😓",
+        "Part of my order is missing 😣",
+        "My order is incomplete 📦",
+        "My product arrived damaged 💔",
+        "The item I received is broken 😥"
+      ],
+      "responses": [
+        "If you'd like to cancel your order, you can do so within **24 hours** of placing it. 🚫 Just provide your order number, and I'll help you cancel it.",
+        "I'm sorry about the mix-up! 😓 Please share your order number, and we'll fix this by sending you the correct product right away.",
+        "Oh no, I apologize for the incomplete order! 😔 Let me look into it. Could you please provide your order number?",
+        "If your product arrived damaged 💔, we'll make it right! Please send us a picture of the item and your order number, and we'll get a replacement to you as soon as possible."
+      ]
+    }
+  ]
+}

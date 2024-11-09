@@ -1,0 +1,317 @@
+{
+  "promotions": [
+    {
+      "promotion_id": "P001",
+      "name": "Summer Sale",
+      "description": "Get 20% off on all summer products.",
+      "discount_percentage": 20,
+      "applicable_products": {
+        "Tops": [
+          {
+            "product_id": "T001",
+            "product_name": "Graphic T-shirt",
+            "original_price": "RM80",
+            "discount_price": "RM64",
+            "details": "Trendy t-shirt with summer-themed graphics."
+          },
+          {
+            "product_id": "T002",
+            "product_name": "Tank Top",
+            "original_price": "RM70",
+            "discount_price": "RM56",
+            "details": "Comfortable tank top ideal for hot weather."
+          },
+          {
+            "product_id": "T003",
+            "product_name": "Button-Up Shirt",
+            "original_price": "RM90",
+            "discount_price": "RM72",
+            "details": "Stylish button-up shirt suitable for casual outings."
+          },
+          {
+            "product_id": "T004",
+            "product_name": "Sleeveless Blouse",
+            "original_price": "RM85",
+            "discount_price": "RM68",
+            "details": "Elegant sleeveless blouse for summer events."
+          },
+          {
+            "product_id": "T005",
+            "product_name": "Off-Shoulder Top",
+            "original_price": "RM75",
+            "discount_price": "RM60",
+            "details": "Fashionable off-shoulder top for a trendy look."
+          }
+        ],
+        "Bottoms": [
+          {
+            "product_id": "B001",
+            "product_name": "Summer Shorts",
+            "original_price": "RM50",
+            "discount_price": "RM40",
+            "details": "Lightweight and comfortable shorts perfect for summer."
+          },
+          {
+            "product_id": "B002",
+            "product_name": "Denim Shorts",
+            "original_price": "RM55",
+            "discount_price": "RM44",
+            "details": "Classic denim shorts for casual wear."
+          },
+          {
+            "product_id": "B003",
+            "product_name": "Lightweight Skirt",
+            "original_price": "RM60",
+            "discount_price": "RM48",
+            "details": "Chic skirt ideal for summer outings."
+          },
+          {
+            "product_id": "B004",
+            "product_name": "Cargo Shorts",
+            "original_price": "RM65",
+            "discount_price": "RM52",
+            "details": "Practical cargo shorts with multiple pockets."
+          },
+          {
+            "product_id": "B005",
+            "product_name": "Hot Pants",
+            "original_price": "RM70",
+            "discount_price": "RM56",
+            "details": "Comfortable beach pants for a relaxed look."
+          }
+        ],
+        "Shoes": [
+          {
+            "product_id": "S001",
+            "product_name": "Summer Sandals",
+            "original_price": "RM120",
+            "discount_price": "RM96",
+            "details": "Breathable sandals perfect for summer."
+          },
+          {
+            "product_id": "S002",
+            "product_name": "Flip-Flops",
+            "original_price": "RM45",
+            "discount_price": "RM36",
+            "details": "Casual flip-flops for easy summer wear."
+          },
+          {
+            "product_id": "S003",
+            "product_name": "Espadrilles",
+            "original_price": "RM150",
+            "discount_price": "RM120",
+            "details": "Stylish espadrilles for a summer day out."
+          },
+          {
+            "product_id": "S004",
+            "product_name": "Slip-On Sneakers",
+            "original_price": "RM130",
+            "discount_price": "RM104",
+            "details": "Comfortable slip-ons for everyday wear."
+          },
+          {
+            "product_id": "S005",
+            "product_name": "Canvas Shoes",
+            "original_price": "RM110",
+            "discount_price": "RM88",
+            "details": "Trendy canvas shoes suitable for casual activities."
+          }
+        ],
+        "Accessories": [
+          {
+            "product_id": "A001",
+            "product_name": "Sunglasses",
+            "original_price": "RM90",
+            "discount_price": "RM72",
+            "details": "Stylish sunglasses to protect your eyes from the sun."
+          },
+          {
+            "product_id": "A002",
+            "product_name": "Beach Hat",
+            "original_price": "RM70",
+            "discount_price": "RM56",
+            "details": "Wide-brimmed hat for sun protection."
+          },
+          {
+            "product_id": "A003",
+            "product_name": "Straw Tote Bag",
+            "original_price": "RM100",
+            "discount_price": "RM80",
+            "details": "Chic straw tote bag perfect for carrying your beach essentials."
+          },
+          {
+            "product_id": "A004",
+            "product_name": "Lightweight Scarf",
+            "original_price": "RM60",
+            "discount_price": "RM48",
+            "details": "Versatile scarf for added style."
+          },
+          {
+            "product_id": "A005",
+            "product_name": "Beaded Bracelet",
+            "original_price": "RM45",
+            "discount_price": "RM36",
+            "details": "Trendy bracelet to complement your summer outfits."
+          }
+        ]
+      },
+      "start_date": "2024-06-01",
+      "end_date": "2024-06-30",
+      "terms_conditions": "Valid on selected items only. Cannot be combined with other offers."
+    },
+    {
+      "promotion_id": "P002",
+      "name": "Beli Satu Percuma Satu",
+      "description": "Buy one pair of shoes and get another pair for free.",
+      "discount_percentage": 50,
+      "applicable_products": {
+        "Shoes": [
+          {
+            "product_id": "S001",
+            "product_name": "Running Sneakers",
+            "original_price": "RM200",
+            "discount_price": "RM100",
+            "details": "Lightweight sneakers ideal for running and jogging."
+          },
+          {
+            "product_id": "S002",
+            "product_name": "Casual Loafers",
+            "original_price": "RM250",
+            "discount_price": "RM125",
+            "details": "Stylish loafers that combine comfort with a sophisticated look."
+          },
+          {
+            "product_id": "S003",
+            "product_name": "High-Top Sneakers",
+            "original_price": "RM180",
+            "discount_price": "RM90",
+            "details": "Trendy high-top sneakers providing style and ankle support."
+          },
+          {
+            "product_id": "S004",
+            "product_name": "Dress Shoes",
+            "original_price": "RM220",
+            "discount_price": "RM110",
+            "details": "Elegant dress shoes perfect for formal occasions."
+          },
+          {
+            "product_id": "S005",
+            "product_name": "Slip-On Sneakers",
+            "original_price": "RM150",
+            "discount_price": "RM75",
+            "details": "Comfortable slip-on sneakers for everyday wear."
+          }
+        ]
+      },
+      "start_date": "2024-07-01",
+      "end_date": "2024-07-15",
+      "terms_conditions": "Offer valid on lower-priced item. Cannot be exchanged for cash."
+    },
+    {
+      "promotion_id": "P003",
+      "name": "Special Weekend Offer",
+      "description": "Enjoy free shipping on all online orders over RM100.",
+      "discount_percentage": 0,
+      "applicable_products": "All",
+      "start_date": "2024-08-10",
+      "end_date": "2024-08-12",
+      "terms_conditions": "Applicable to standard shipping only. Minimum order of RM100 required."
+    },
+    {
+      "promotion_id": "P004",
+      "name": "Back to School Special",
+      "description": "Save 15% on backpacks, notebooks, and other school supplies.",
+      "discount_percentage": 15,
+      "applicable_products": {
+        "Accessories": [
+          {
+            "product_id": "B001",
+            "product_name": "Student Backpack",
+            "original_price": "RM60",
+            "discount_price": "RM51",
+            "details": "Durable backpack with multiple compartments for school use."
+          },
+          {
+            "product_id": "B002",
+            "product_name": "Spiral Notebook",
+            "original_price": "RM30",
+            "discount_price": "RM25.5",
+            "details": "High-quality spiral notebook suitable for taking notes."
+          },
+          {
+            "product_id": "B003",
+            "product_name": "Pencil Case",
+            "original_price": "RM45",
+            "discount_price": "RM38.25",
+            "details": "Functional pencil case to organize school supplies."
+          },
+          {
+            "product_id": "B004",
+            "product_name": "Lunch Box",
+            "original_price": "RM35",
+            "discount_price": "RM29.75",
+            "details": "Convenient lunch box for packed meals."
+          },
+          {
+            "product_id": "B005",
+            "product_name": "Water Bottle",
+            "original_price": "RM20",
+            "discount_price": "RM17",
+            "details": "Durable water bottle for staying hydrated at school."
+          }
+        ]
+      },
+      "start_date": "2024-09-01",
+      "end_date": "2024-09-30",
+      "terms_conditions": "Only valid on school supplies. Limited stock available."
+    },
+    {
+      "promotion_id": "P005",
+      "name": "Winter Clearance Sale",
+      "description": "Up to 70% off on clearance items. Limited time only!",
+      "discount_percentage": 70,
+      "applicable_products": {
+        "Clothing": [
+          {
+            "product_id": "W001",
+            "product_name": "Woolen Dress",
+            "original_price": "RM300",
+            "discount_price": "RM90",
+            "details": "Warm woolen dress perfect for winter."
+          },
+          {
+            "product_id": "W002",
+            "product_name": "Winter Skirt",
+            "original_price": "RM150",
+            "discount_price": "RM45",
+            "details": "Stylish winter skirt designed for cold weather."
+          },
+          {
+            "product_id": "W003",
+            "product_name": "Thermal Jacket",
+            "original_price": "RM350",
+            "discount_price": "RM105",
+            "details": "Insulated jacket for extreme cold temperatures."
+          },
+          {
+            "product_id": "W004",
+            "product_name": "Woolen Gloves",
+            "original_price": "RM60",
+            "discount_price": "RM18",
+            "details": "Warm gloves to keep your hands cozy."
+          },
+          {
+            "product_id": "W005",
+            "product_name": "Winter Scarf",
+            "original_price": "RM50",
+            "discount_price": "RM15",
+            "details": "Stylish scarf to keep you warm."
+          }
+        ]
+      },
+      "start_date": "2024-12-01",
+      "end_date": "2024-12-31",
+      "terms_conditions": "All sales final. No returns or exchanges."
+    }
+  ]
+}

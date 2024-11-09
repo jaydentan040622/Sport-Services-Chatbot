@@ -1,0 +1,229 @@
+{
+    "storelocator": [
+        {
+            "Location": "Adidas KLCC",
+            "id": "M001",
+            "address": "Lot 325, Level 3, Suria KLCC, Kuala Lumpur, 50088",
+            "phone": "03-2382-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/klcc",
+            "postal code": "50088"
+        },
+        {
+            "Location": "Adidas Pavilion Kuala Lumpur",
+            "id": "M002",
+            "address": "Lot 4.12.00, Level 4, Pavilion Kuala Lumpur, 168 Jalan Bukit Bintang, Kuala Lumpur, 55100",
+            "phone": "03-2148-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/pavilion-kl",
+            "postal code": "55100"
+        },
+        {
+            "Location": "Adidas Mid Valley Megamall",
+            "id": "M003",
+            "address": "Lot G-007, Ground Floor, Mid Valley City, Lingkaran Syed Putra, Kuala Lumpur, 59200",
+            "phone": "03-2938-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/midvalley",
+            "postal code": "59200"
+        },
+        {
+            "Location": "Adidas Sunway Pyramid",
+            "id": "M004",
+            "address": "Lot G1.65, Ground Floor, Sunway Pyramid, Bandar Sunway, 47500 Subang Jaya, Selangor",
+            "phone": "03-7496-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/sunway",
+            "postal code": "47500"
+        },
+        {
+            "Location": "Adidas Queensbay Mall",
+            "id": "M005",
+            "address": "Lot 2F-67, 2nd Floor, Queensbay Mall, 100 Persiaran Bayan Indah, Bayan Lepas, Penang, 11900",
+            "phone": "04-643-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/queensbay",
+            "postal code": "11900"
+        },
+        {
+            "Location": "Adidas 1 Utama",
+            "id": "M006",
+            "address": "Lot G142, Ground Floor, 1 Utama Shopping Centre, Bandar Utama, Petaling Jaya, Selangor, 47800",
+            "phone": "03-7726-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/1utama",
+            "postal code": "47800"
+        },
+        {
+            "Location": "Adidas Gurney Plaza",
+            "id": "M007",
+            "address": "Lot 170-02-11, 2nd Floor, Gurney Plaza, 10250 Georgetown, Penang",
+            "phone": "04-228-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/gurney",
+            "postal code": "10250"
+        },
+        {
+            "Location": "Adidas City Square JB",
+            "id": "M008",
+            "address": "Lot M1-24, Level 1, Johor Bahru City Square, Jalan Wong Ah Fook, 80000 Johor Bahru, Johor",
+            "phone": "07-224-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/citysquare-jb",
+            "postal code": "80000"
+        },
+        {
+            "Location": "Adidas East Coast Mall",
+            "id": "M009",
+            "address": "Lot G35, Ground Floor, East Coast Mall, Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
+            "phone": "09-567-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/eastcoastmall",
+            "postal code": "25200"
+        },
+        {
+            "Location": "Adidas Imago KK",
+            "id": "M010",
+            "address": "Lot G40A, Ground Floor, Imago Shopping Mall, KK Times Square, Kota Kinabalu, 88100 Sabah",
+            "phone": "088-487-000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/imago-kk",
+            "postal code": "88100"
+        },
+        {
+            "Location": "Adidas Melaka Mall",
+            "id": "M011",
+            "address": "Lot 131-132, Level 1, Melaka Mall, Jalan Melaka Raya 23, 75000 Melaka",
+            "phone": "06-282-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/melaka",
+            "postal code": "75000"
+        },
+        {
+            "Location": "Adidas The Curve",
+            "id": "M012",
+            "address": "Lot 162, Level 1, The Curve, Mutiara Damansara, Petaling Jaya, 47800 Selangor",
+            "phone": "03-7728-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/thecurve",
+            "postal code": "47800"
+        },
+        {
+            "Location": "Adidas Aeon Mall Shah Alam",
+            "id": "M013",
+            "address": "Lot 2-21, Level 2, Aeon Mall Shah Alam, 40000 Shah Alam, Selangor",
+            "phone": "03-5519-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/aeon-shahalam",
+            "postal code": "40000"
+        },
+        {
+            "Location": "Adidas Komtar JBCC",
+            "id": "M014",
+            "address": "Lot F-11, Floor 1, Komtar JBCC, Johor Bahru, 80000 Johor",
+            "phone": "07-222-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/komtar-jbcc",
+            "postal code": "80000"
+        },
+        {
+            "Location": "Adidas Sogo Kuala Lumpur",
+            "id": "M015",
+            "address": "Lot 5.3, Level 5, Sogo Kuala Lumpur, Jalan Tuanku Abdul Rahman, 50100 Kuala Lumpur",
+            "phone": "03-2698-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/sogo-kl",
+            "postal code": "50100"
+        },
+        {
+            "Location": "Adidas Tropicana City Mall",
+            "id": "M016",
+            "address": "Lot T-130, Tropicana City Mall, 3 Jalan SS20/27, 47400 Petaling Jaya, Selangor",
+            "phone": "03-7725-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/tropicana",
+            "postal code": "47400"
+        },
+        {
+            "Location": "Adidas Ipoh Parade",
+            "id": "M017",
+            "address": "Lot L-57, Level 2, Ipoh Parade, Jalan Sultan Idris Shah, 31400 Ipoh, Perak",
+            "phone": "05-255-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/ipoh",
+            "postal code": "31400"
+        },
+        {
+            "Location": "Adidas Alor Setar Mall",
+            "id": "M018",
+            "address": "Lot 107-108, Level 1, Alor Setar Mall, Jalan Teluk Wanjah, 05100 Alor Setar, Kedah",
+            "phone": "04-733-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/alorsetar",
+            "postal code": "05100"
+        },
+        {
+            "Location": "Adidas Citta Mall",
+            "id": "M019",
+            "address": "Lot F-08, Ground Floor, Citta Mall, Jalan PJU 1A/48, 47301 Petaling Jaya, Selangor",
+            "phone": "03-7832-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/citta",
+            "postal code": "47301"
+        },
+        {
+            "Location": "Adidas Penang Times Square",
+            "id": "M020",
+            "address": "Lot 118 & 119, Level 1, Penang Times Square, Jalan Dato Keramat, 10150 Penang",
+            "phone": "04-229-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/penang-times",
+            "postal code": "10150"
+        },
+        {
+            "Location": "Adidas KL Sentral",
+            "id": "M021",
+            "address": "Lot 3-15, Level 3, KL Sentral, Jalan Tun Sambanthan, 50470 Kuala Lumpur",
+            "phone": "03-2273-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/klsentral",
+            "postal code": "50470"
+        },
+        {
+            "Location": "Adidas Titiwangsa",
+            "id": "M022",
+            "address": "Lot 2-21, Level 2, Titiwangsa Sentral, Jalan Titiwangsa, 53000 Kuala Lumpur",
+            "phone": "03-4043-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/titiwangsa",
+            "postal code": "53000"
+        },
+        {
+            "Location": "Adidas Miri",
+            "id": "M023",
+            "address": "Lot 2-13, Ground Floor, Bintang Megamall, Miri, 98000 Sarawak",
+            "phone": "085-433-000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/miri",
+            "postal code": "98000"
+        },
+        {
+            "Location": "Adidas Kuching",
+            "id": "M024",
+            "address": "Lot 18-20, Level 1, The Spring, Jalan Simpang Tiga, 93300 Kuching, Sarawak",
+            "phone": "082-451-000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/kuching",
+            "postal code": "93300"
+        },
+        {
+            "Location": "Adidas Bandar Puteri Puchong",
+            "id": "M025",
+            "address": "Lot 1-21, Level 1, IOI Mall Puchong, Bandar Puteri, 47100 Puchong, Selangor",
+            "phone": "03-8066-0000",
+            "hours": "Mon-Sun: 10am-10pm",
+            "website": "www.adidas.com.my/bandar-puteri",
+            "postal code": "47100"
+        }
+    ]
+}

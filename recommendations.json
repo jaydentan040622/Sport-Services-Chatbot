@@ -1,0 +1,804 @@
+{
+"recommendations": {
+    "categories": {
+      "Tops": {
+        "Dresses": {
+          "T001": {
+            "name": "Summer Maxi Dress",
+            "description": "A flowy maxi dress perfect for summer outings.",
+            "selling_price": "RM149",
+            "color": "Red, Blue, Green",
+            "availability": "In stock", 
+            "sizes": ["S", "M", "L", "XL"],
+            "rating": 4.6,
+            "features": [
+              "Lightweight fabric",
+              "Elegant design",
+              "Available in various colors"
+            ]
+          },
+          "T002": {
+            "name": "Casual Shift Dress",
+            "description": "Comfortable shift dress suitable for casual wear.",
+            "selling_price": "RM119",
+            "color": "Black, White, Navy",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.5,
+            "features": [
+              "Relaxed fit",
+              "Versatile for day and night",
+              "Easy to accessorize"
+            ]
+          },
+          "T003": {
+            "name": "Wrap Dress",
+            "description": "A chic wrap dress that cinches at the waist for a flattering fit.",
+            "selling_price": "RM139",
+            "color": "Pink, Burgundy, Navy",
+            "availability": "In stock",
+            "sizes": ["M", "L", "XL"],
+            "rating": 4.7,
+            "features": [
+              "Adjustable wrap tie",
+              "Soft, flowing fabric",
+              "Perfect for various occasions"
+            ]
+          },
+          "T004": {
+            "name": "Fit-and-Flare Dress",
+            "description": "A stylish dress that flares out from the waist for a classic look.",
+            "selling_price": "RM129",
+            "color": "Teal, Black, Maroon",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.8,
+            "features": [
+              "Flattering fit-and-flare silhouette",
+              "Comfortable fabric",
+              "Elegant design"
+            ]
+          },
+          "T005": {
+            "name": "Sundress",
+            "description": "A casual sundress ideal for warm weather.",
+            "selling_price": "RM109",
+            "color": "Yellow, Blue, Coral",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.4,
+            "features": [
+              "Lightweight and breathable",
+              "Adjustable straps",
+              "Bright and cheerful colors"
+            ]
+          }
+        },
+        "Shirts": {
+          "T006": {
+            "name": "Button-Down Shirt",
+            "description": "Classic button-down shirt for a formal look.",
+            "selling_price": "RM129",
+            "color": "White, Light Blue, Grey",
+            "availability": "In stock",
+            "sizes": ["M", "L", "XL"],
+            "rating": 4.8,
+            "features": [
+              "100% cotton",
+              "Perfect for office wear",
+              "Easy to iron"
+            ]
+          },
+          "T007": {
+            "name": "Plaid Flannel Shirt",
+            "description": "Warm flannel shirt with a plaid pattern for casual wear.",
+            "selling_price": "RM109",
+            "color": "Red Plaid, Blue Plaid",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.7,
+            "features": [
+              "Soft flannel fabric",
+              "Great for layering",
+              "Stylish plaid design"
+            ]
+          },
+          "T008": {
+            "name": "Striped Oxford Shirt",
+            "description": "A casual oxford shirt with stripes for a modern look.",
+            "selling_price": "RM139",
+            "color": "Blue Stripe, Grey Stripe",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L", "XL"],
+            "rating": 4.6,
+            "features": [
+              "Comfortable cotton blend",
+              "Versatile for casual and semi-formal",
+              "Timeless stripe pattern"
+            ]
+          },
+          "T009": {
+            "name": "Short Sleeve Button-Up",
+            "description": "A lightweight button-up shirt for hot weather.",
+            "selling_price": "RM99",
+            "color": "White, Beige, Light Grey",
+            "availability": "In stock",
+            "sizes": ["M", "L", "XL"],
+            "rating": 4.5,
+            "features": [
+              "Breathable fabric",
+              "Casual design",
+              "Available in neutral colors"
+            ]
+          },
+          "T010": {
+            "name": "Hawaiian Shirt",
+            "description": "Bright and colorful Hawaiian shirt perfect for summer.",
+            "selling_price": "RM119",
+            "color": "Tropical Print, Floral Print",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.7,
+            "features": [
+              "Vibrant prints",
+              "Lightweight material",
+              "Great for beach outings"
+            ]
+          }
+        },
+        "Polo-T": {
+          "T011": {
+            "name": "Classic Polo Shirt",
+            "description": "Timeless polo shirt with a comfortable fit.",
+            "selling_price": "RM89",
+            "color": "Black, White, Grey",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L", "XL"],
+            "rating": 4.4,
+            "features": [
+              "Breathable cotton fabric",
+              "Ribbed collar",
+              "Casual and versatile"
+            ]
+          },
+          "T012": {
+            "name": "Sport Polo Shirt",
+            "description": "Performance polo shirt designed for sports activities.",
+            "selling_price": "RM99",
+            "color": "Navy, Red, Green",
+            "availability": "In stock",
+            "sizes": ["M", "L", "XL"],
+            "rating": 4.6,
+            "features": [
+              "Moisture-wicking material",
+              "Perfect for active use",
+              "Stylish and functional"
+            ]
+          },
+          "T013": {
+            "name": "Striped Polo Shirt",
+            "description": "A casual polo shirt with stylish stripes.",
+            "selling_price": "RM109",
+            "color": "Navy Stripe, Grey Stripe",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.5,
+            "features": [
+              "Comfortable fit",
+              "Classic striped design",
+              "Available in multiple colors"
+            ]
+          },
+          "T014": {
+            "name": "Slim Fit Polo",
+            "description": "Modern polo shirt with a slim fit for a sleek look.",
+            "selling_price": "RM119",
+            "color": "Black, Burgundy, Dark Blue",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.7,
+            "features": [
+              "Slim fit",
+              "Soft cotton material",
+              "Stylish design"
+            ]
+          },
+          "T015": {
+            "name": "Embroidered Polo Shirt",
+            "description": "Polo shirt featuring elegant embroidery.",
+            "selling_price": "RM129",
+            "color": "White, Grey, Navy",
+            "availability": "In stock",
+            "sizes": ["M", "L", "XL"],
+            "rating": 4.8,
+            "features": [
+              "Sophisticated embroidery",
+              "Soft fabric",
+              "Perfect for casual or semi-formal occasions"
+            ]
+          }
+        },
+        "Sleeveless": {
+          "T016": {
+            "name": "Sleeveless Workout Tank",
+            "description": "Comfortable tank top ideal for workouts.",
+            "selling_price": "RM79",
+            "color": "Grey, Blue, Black",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.5,
+            "features": [
+              "Moisture-wicking",
+              "Stretchable fabric",
+              "Perfect for exercise"
+            ]
+          },
+          "T017": {
+            "name": "Casual Sleeveless Top",
+            "description": "Relaxed fit sleeveless top for casual wear.",
+            "selling_price": "RM89",
+            "color": "White, Beige, Olive",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.4,
+            "features": [
+              "Lightweight fabric",
+              "Versatile for various occasions",
+              "Easy to pair with jeans or skirts"
+            ]
+          },
+          "T018": {
+            "name": "Silk Sleeveless Blouse",
+            "description": "Elegant silk blouse suitable for dressy occasions.",
+            "selling_price": "RM159",
+            "color": "Champagne, Black, Navy",
+            "availability": "In stock",
+            "sizes": ["M", "L", "XL"],
+            "rating": 4.7,
+            "features": [
+              "Luxurious silk material",
+              "Elegant and stylish",
+              "Great for formal events"
+            ]
+          },
+          "T019": {
+            "name": "Sporty Sleeveless Tank",
+            "description": "Athletic tank top designed for sports.",
+            "selling_price": "RM89",
+            "color": "Green, Pink, Grey",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.6,
+            "features": [
+              "Breathable fabric",
+              "Ideal for high-intensity workouts",
+              "Durable and stretchy"
+            ]
+          },
+          "T020": {
+            "name": "Boho Sleeveless Tunic",
+            "description": "Bohemian style sleeveless tunic for a relaxed look.",
+            "selling_price": "RM109",
+            "color": "Turquoise, Coral, Lavender",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.5,
+            "features": [
+              "Flowy and relaxed fit",
+              "Bohemian design",
+              "Perfect for casual outings"
+            ]
+          }
+        }
+      },
+      "Bottoms": {
+        "Long": {
+          "B001": {
+            "name": "Classic Chinos",
+            "description": "Versatile chinos suitable for both casual and semi-formal wear.",
+            "selling_price": "RM139",
+            "color": "Beige, Navy, Black",
+            "availability": "In stock",
+            "sizes": ["30", "32", "34"],
+            "rating": 4.7,
+            "features": [
+              "Comfortable fit",
+              "Durable fabric",
+              "Classic style"
+            ]
+          },
+          "B002": {
+            "name": "Formal Trousers",
+            "description": "Elegant trousers designed for formal occasions.",
+            "selling_price": "RM159",
+            "color": "Charcoal, Grey, Blue",
+            "availability": "In stock",
+            "sizes": ["30", "32", "34", "36"],
+            "rating": 4.8,
+            "features": [
+              "Tailored fit",
+              "High-quality material",
+              "Perfect for business wear"
+            ]
+          },
+          "B003": {
+            "name": "Wide-Leg Pants",
+            "description": "Fashionable wide-leg pants with a relaxed fit.",
+            "selling_price": "RM129",
+            "color": "Olive, Black, Grey",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.6,
+            "features": [
+              "Flowy design",
+              "Comfortable fit",
+              "Stylish and trendy"
+            ]
+          },
+          "B004": {
+            "name": "Straight-Leg Jeans",
+            "description": "Classic straight-leg jeans for a casual look.",
+            "selling_price": "RM119",
+            "color": "Dark Blue, Light Blue, Black",
+            "availability": "In stock",
+            "sizes": ["28", "30", "32", "34"],
+            "rating": 4.5,
+            "features": [
+              "Timeless style",
+              "Comfortable denim",
+              "Versatile for daily wear"
+            ]
+          },
+          "B005": {
+            "name": "High-Waist Trousers",
+            "description": "Elegant high-waist trousers with a flattering fit.",
+            "selling_price": "RM149",
+            "color": "Navy, Black, Grey",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.7,
+            "features": [
+              "High-waist design",
+              "Slim fit",
+              "Perfect for professional settings"
+            ]
+          }
+        },
+        "Short": {
+          "B006": {
+            "name": "Denim Shorts",
+            "description": "Casual denim shorts for summer wear.",
+            "selling_price": "RM89",
+            "color": "Light Blue, Dark Blue",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.4,
+            "features": [
+              "Comfortable fit",
+              "Durable denim",
+              "Great for casual outings"
+            ]
+          },
+          "B007": {
+            "name": "Cargo Shorts",
+            "description": "Functional cargo shorts with multiple pockets.",
+            "selling_price": "RM99",
+            "color": "Khaki, Olive, Black",
+            "availability": "In stock",
+            "sizes": ["M", "L", "XL"],
+            "rating": 4.6,
+            "features": [
+              "Multiple pockets",
+              "Durable material",
+              "Ideal for outdoor activities"
+            ]
+          },
+          "B008": {
+            "name": "Tailored Shorts",
+            "description": "Stylish tailored shorts for a smart casual look.",
+            "selling_price": "RM109",
+            "color": "Navy, Grey, Beige",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.5,
+            "features": [
+              "Smart design",
+              "Comfortable fit",
+              "Perfect for casual or semi-formal occasions"
+            ]
+          },
+          "B009": {
+            "name": "Athletic Shorts",
+            "description": "Performance shorts designed for sports and exercise.",
+            "selling_price": "RM79",
+            "color": "Black, Grey, Red",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.7,
+            "features": [
+              "Moisture-wicking fabric",
+              "Comfortable fit",
+              "Ideal for physical activities"
+            ]
+          },
+          "B010": {
+            "name": "Linen Shorts",
+            "description": "Lightweight linen shorts perfect for hot weather.",
+            "selling_price": "RM119",
+            "color": "Beige, Light Grey, Blue",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.4,
+            "features": [
+              "Breathable linen material",
+              "Casual and comfortable",
+              "Great for summer days"
+            ]
+          }
+        },
+        "Skirt": {
+          "B011": {
+            "name": "A-Line Skirt",
+            "description": "Flattering A-line skirt suitable for various occasions.",
+            "selling_price": "RM119",
+            "color": "Black, Navy, Burgundy",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.5,
+            "features": [
+              "Flattering fit",
+              "Versatile style",
+              "Comfortable fabric"
+            ]
+          },
+          "B012": {
+            "name": "Pencil Skirt",
+            "description": "Elegant pencil skirt perfect for formal settings.",
+            "selling_price": "RM129",
+            "color": "Charcoal, Grey, Black",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.6,
+            "features": [
+              "Slim fit",
+              "High-quality material",
+              "Perfect for professional wear"
+            ]
+          },
+          "B013": {
+            "name": "Pleated Skirt",
+            "description": "Stylish pleated skirt for a feminine look.",
+            "selling_price": "RM109",
+            "color": "Light Pink, Navy, Green",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.7,
+            "features": [
+              "Pleated design",
+              "Flowy and comfortable",
+              "Great for casual wear"
+            ]
+          },
+          "B014": {
+            "name": "Wrap Skirt",
+            "description": "Chic wrap skirt that ties at the waist.",
+            "selling_price": "RM139",
+            "color": "Olive, Burgundy, Black",
+            "availability": "In stock",
+            "sizes": ["M", "L", "XL"],
+            "rating": 4.6,
+            "features": [
+              "Adjustable wrap tie",
+              "Stylish and versatile",
+              "Perfect for various occasions"
+            ]
+          },
+          "B015": {
+            "name": "Mini Skirt",
+            "description": "Trendy mini skirt for a youthful look.",
+            "selling_price": "RM99",
+            "color": "Red, Black, Denim",
+            "availability": "In stock",
+            "sizes": ["S", "M", "L"],
+            "rating": 4.4,
+            "features": [
+              "Bold and fashionable",
+              "Great for casual outings",
+              "Comfortable fit"
+            ]
+          }
+        },
+        "Shoes": {
+          "Running": {
+            "S001": {
+              "name": "High-Performance Running Shoes",
+              "description": "Lightweight running shoes with excellent cushioning.",
+              "selling_price": "RM199",
+              "color": "Black, Grey, Blue",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9", "10"],
+              "rating": 4.8,
+              "features": [
+                "Enhanced cushioning",
+                "Breathable mesh",
+                "Ideal for long-distance running"
+              ]
+            },
+            "S002": {
+              "name": "Trail Running Shoes",
+              "description": "Durable shoes designed for trail running and rugged terrains.",
+              "selling_price": "RM219",
+              "color": "Brown, Green, Grey",
+              "availability": "In stock",
+              "sizes": ["8", "9", "10", "11"],
+              "rating": 4.7,
+              "features": [
+                "Durable outsole",
+                "Supportive fit",
+                "Suitable for uneven surfaces"
+              ]
+            },
+            "S003": {
+              "name": "Speed Runners",
+              "description": "Sleek and lightweight running shoes for speed and agility.",
+              "selling_price": "RM189",
+              "color": "Red, Black, White",
+              "availability": "In stock",
+              "sizes": ["6", "7", "8", "9"],
+              "rating": 4.6,
+              "features": [
+                "Aerodynamic design",
+                "Responsive cushioning",
+                "Ideal for sprinting"
+              ]
+            },
+            "S004": {
+              "name": "Neutral Running Shoes",
+              "description": "Versatile running shoes with neutral support.",
+              "selling_price": "RM169",
+              "color": "Blue, Black, Grey",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9", "10"],
+              "rating": 4.5,
+              "features": [
+                "Neutral cushioning",
+                "Breathable fabric",
+                "Great for everyday running"
+              ]
+            },
+            "S005": {
+              "name": "Cushioned Running Shoes",
+              "description": "Running shoes with extra cushioning for added comfort.",
+              "selling_price": "RM199",
+              "color": "Purple, Black, Grey",
+              "availability": "In stock",
+              "sizes": ["8", "9", "10", "11"],
+              "rating": 4.7,
+              "features": [
+                "Enhanced shock absorption",
+                "Soft and comfortable",
+                "Suitable for long runs"
+              ]
+            }
+          },
+          "Basketball": {
+            "S006": {
+              "name": "High-Top Basketball Shoes",
+              "description": "Supportive high-top shoes designed for basketball.",
+              "selling_price": "RM229",
+              "color": "Black, Red, White",
+              "availability": "In stock",
+              "sizes": ["8", "9", "10", "11"],
+              "rating": 4.8,
+              "features": [
+                "High ankle support",
+                "Durable outsole",
+                "Perfect for court play"
+              ]
+            },
+            "S007": {
+              "name": "Low-Top Basketball Shoes",
+              "description": "Lightweight low-top shoes for agility on the court.",
+              "selling_price": "RM209",
+              "color": "Blue, Black, Grey",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9", "10"],
+              "rating": 4.7,
+              "features": [
+                "Lightweight design",
+                "Breathable mesh",
+                "Enhanced mobility"
+              ]
+            },
+            "S008": {
+              "name": "Performance Basketball Shoes",
+              "description": "Advanced basketball shoes with high performance features.",
+              "selling_price": "RM249",
+              "color": "Orange, Black, Green",
+              "availability": "In stock",
+              "sizes": ["8", "9", "10", "11"],
+              "rating": 4.9,
+              "features": [
+                "Maximum cushioning",
+                "Superior grip",
+                "Ideal for professional play"
+              ]
+            },
+            "S009": {
+              "name": "Retro Basketball Shoes",
+              "description": "Classic style basketball shoes with modern features.",
+              "selling_price": "RM189",
+              "color": "White, Red, Blue",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9"],
+              "rating": 4.6,
+              "features": [
+                "Vintage design",
+                "Comfortable fit",
+                "Good traction"
+              ]
+            },
+            "S010": {
+              "name": "Youth Basketball Shoes",
+              "description": "Basketball shoes designed specifically for young players.",
+              "selling_price": "RM179",
+              "color": "Black, Blue, Grey",
+              "availability": "In stock",
+              "sizes": ["6", "7", "8"],
+              "rating": 4.5,
+              "features": [
+                "Kid-friendly design",
+                "Supportive fit",
+                "Durable material"
+              ]
+            }
+          },
+          "Badminton": {
+            "S011": {
+              "name": "Lightweight Badminton Shoes",
+              "description": "Breathable and lightweight shoes for badminton.",
+              "selling_price": "RM179",
+              "color": "White, Blue, Red",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9", "10"],
+              "rating": 4.7,
+              "features": [
+                "Lightweight design",
+                "Excellent grip",
+                "Comfortable fit"
+              ]
+            },
+            "S012": {
+              "name": "Anti-Slip Badminton Shoes",
+              "description": "Shoes with anti-slip soles for enhanced stability.",
+              "selling_price": "RM189",
+              "color": "Black, Yellow, Grey",
+              "availability": "In stock",
+              "sizes": ["8", "9", "10"],
+              "rating": 4.6,
+              "features": [
+                "Anti-slip outsole",
+                "Durable material",
+                "Supportive fit"
+              ]
+            },
+            "S013": {
+              "name": "Cushioned Badminton Shoes",
+              "description": "Shoes with extra cushioning for comfort during play.",
+              "selling_price": "RM199",
+              "color": "Red, Blue, White",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9"],
+              "rating": 4.8,
+              "features": [
+                "Enhanced cushioning",
+                "Comfortable",
+                "Ideal for long matches"
+              ]
+            },
+            "S014": {
+              "name": "High-Speed Badminton Shoes",
+              "description": "Shoes designed for quick movements and agility.",
+              "selling_price": "RM209",
+              "color": "Grey, Blue, Black",
+              "availability": "In stock",
+              "sizes": ["8", "9", "10", "11"],
+              "rating": 4.7,
+              "features": [
+                "Speed-enhancing design",
+                "Excellent traction",
+                "Lightweight"
+              ]
+            },
+            "S015": {
+              "name": "Durable Badminton Shoes",
+              "description": "Sturdy shoes built to withstand intensive play.",
+              "selling_price": "RM219",
+              "color": "Black, Red, Grey",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9", "10"],
+              "rating": 4.6,
+              "features": [
+                "High durability",
+                "Strong support",
+                "Long-lasting"
+              ]
+            }
+          },
+          "Sneaker": {
+            "S016": {
+              "name": "Classic Sneakers",
+              "description": "Timeless sneakers with a casual design.",
+              "selling_price": "RM149",
+              "color": "White, Black, Grey",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9", "10"],
+              "rating": 4.5,
+              "features": [
+                "Versatile design",
+                "Comfortable fit",
+                "Suitable for everyday wear"
+              ]
+            },
+            "S017": {
+              "name": "High-Top Sneakers",
+              "description": "Stylish high-top sneakers with modern features.",
+              "selling_price": "RM169",
+              "color": "Black, Blue, Red",
+              "availability": "In stock",
+              "sizes": ["8", "9", "10"],
+              "rating": 4.6,
+              "features": [
+                "High-top design",
+                "Durable material",
+                "Trendsetting style"
+              ]
+            },
+            "S018": {
+              "name": "Retro Sneakers",
+              "description": "Sneakers with a retro design and contemporary comfort.",
+              "selling_price": "RM159",
+              "color": "Grey, Red, White",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9", "10"],
+              "rating": 4.7,
+              "features": [
+                "Vintage look",
+                "Comfortable fit",
+                "Versatile for casual wear"
+              ]
+            },
+            "S019": {
+              "name": "Running Sneakers",
+              "description": "Lightweight sneakers designed for running.",
+              "selling_price": "RM179",
+              "color": "Blue, Black, Green",
+              "availability": "In stock",
+              "sizes": ["7", "8", "9"],
+              "rating": 4.8,
+              "features": [
+                "Lightweight and breathable",
+                "Good cushioning",
+                "Ideal for running and jogging"
+              ]
+            },
+            "S020": {
+              "name": "Fashion Sneakers",
+              "description": "Trendy sneakers with a modern design.",
+              "selling_price": "RM169",
+              "color": "White, Pink, Black",
+              "availability": "In stock",
+              "sizes": ["8", "9", "10"],
+              "rating": 4.6,
+              "features": [
+                "Stylish design",
+                "Comfortable fit",
+                "Great for everyday use"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}  
